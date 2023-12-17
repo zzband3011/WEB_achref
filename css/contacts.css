@@ -1,0 +1,40 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+  }
+  
+  header {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  header a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  header a:hover {
+    text-decoration: underline;
+  }
+  
+  form {
+    margin: 20px;
+  }
+  
+  table {
+    width: 50%;
+    margin: 20px auto;
+  }
+  
+  table td {
+    padding: 5px;
+  }
+  
+ 
